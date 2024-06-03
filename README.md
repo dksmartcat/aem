@@ -1,6 +1,5 @@
 # aem
 
-* Инструкция по установке aem локально ./aem/Readme.txt
 * Коннектор Smartling ./smartling connector package.
 	* Документация https://help.smartling.com/hc/en-us/articles/10669596433819-How-the-AEM-Touch-and-Cloud-Connectors-Work
 	* Для установки нажать "Upload package" на странице пакетного менеджера http://localhost:4502/crx/packmgr/index.jsp
